@@ -22,3 +22,7 @@ data/raw/
 
 # 시나리오 실행용 체크포인터 (매번 새로 만듦)
 results/scenarios.sqlite*
+
+# LLM 응답 캐시: 이미 저장소에 있는 파일(시나리오·예시용)만 올린다.
+# 앱에서 새로 만든 여행의 캐시는 자동으로 올라가지 않게 한다. 꼭 올릴 파일은 git add -f 로 추가.
+cache/llm/*.json
