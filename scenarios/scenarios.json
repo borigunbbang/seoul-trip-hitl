@@ -1,0 +1,97 @@
+{
+ "note": "REPORT용 고정 입력. decisions는 승인 대기에 들어간 날에 사람이 내린 결정(일차 → approve 또는 reject+사유)이다.",
+ "scenarios": [
+  {
+   "id": "s1-palaces",
+   "title": "고궁 일주 (월~수)",
+   "request": {
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-25",
+    "wanted_ids": [
+     "a_gyeongbok",
+     "a_changdeok",
+     "a_changgyeong",
+     "a_deoksu",
+     "a_bukchon",
+     "a_mmca",
+     "a_seoulmuseum"
+    ],
+    "lodging_id": "h_anguk",
+    "note": "고궁 위주로, 점심은 메밀국수나 한식"
+   },
+   "decisions": {
+    "3": {
+     "action": "approve",
+     "reason": "공지는 월요일 휴무 안내라 수요일 방문은 괜찮다고 판단"
+    }
+   }
+  },
+  {
+   "id": "s2-namsan",
+   "title": "남산·명동·동대문 (금~토)",
+   "request": {
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-21",
+    "wanted_ids": [
+     "a_ntower",
+     "a_namsangol",
+     "a_myeongdong_cathedral",
+     "a_ddp",
+     "a_gwangjang"
+    ],
+    "lodging_id": "h_myeongdong",
+    "note": "저녁은 시장에서"
+   },
+   "decisions": {
+    "2": {
+     "action": "approve",
+     "reason": "DDP 공식 홈페이지에서 토요일 운영을 직접 확인함"
+    }
+   }
+  },
+  {
+   "id": "s3-east",
+   "title": "용산·성수·잠실 (금~일)",
+   "request": {
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-22",
+    "wanted_ids": [
+     "a_nationalmuseum",
+     "a_warmemorial",
+     "a_seoulforest",
+     "a_seoulsky",
+     "a_seokchon"
+    ],
+    "lodging_id": "h_jamsil",
+    "note": "박물관은 여유 있게"
+   },
+   "decisions": {
+    "1": {
+     "action": "reject",
+     "reason": "거울못식당 말고 후기가 최근에도 있는 다른 식당으로 바꿔 주세요"
+    }
+   }
+  },
+  {
+   "id": "s4-weekend",
+   "title": "주말 하루 종로 (토)",
+   "request": {
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-21",
+    "wanted_ids": [
+     "a_changdeok",
+     "a_bukchon",
+     "a_insadong"
+    ],
+    "lodging_id": "h_anguk",
+    "note": ""
+   },
+   "decisions": {
+    "1": {
+     "action": "reject",
+     "reason": "창덕궁은 다음에 갈게요. 빼 주세요."
+    }
+   }
+  }
+ ]
+}

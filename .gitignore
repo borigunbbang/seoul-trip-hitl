@@ -19,3 +19,6 @@ data/app.sqlite-*
 
 # 수집 원본 (API 응답 캐시, 다시 받을 수 있음)
 data/raw/
+
+# 시나리오 실행용 체크포인터 (매번 새로 만듦)
+results/scenarios.sqlite*

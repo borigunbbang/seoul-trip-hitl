@@ -114,7 +114,8 @@ def build_day_graph(provider: DataProvider, planner: Planner, checkpointer=None,
         action = decision.get("action")
         if action not in ("approve", "reject"):
             raise ValueError(f"알 수 없는 결정: {decision}")
-        detail = "승인" if action == "approve" else f"반려 — {decision.get('reason', '').strip() or '사유 없음'}"
+        note = decision.get("reason", "").strip()
+        detail = (f"승인 — {note}" if note else "승인") if action == "approve" else f"반려 — {note or '사유 없음'}"
         return {"human_decision": decision, "history": [{"event": action, "detail": detail}]}
 
     def route_after_review(state: DayState) -> str:

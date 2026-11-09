@@ -113,6 +113,7 @@ def day_detail(view: DayView, *, allow_decision: bool) -> None:
 
         actions = v.get("actions", [])
         if actions:
+            st.caption("※ 위 요약은 자동 수정 전에 에이전트가 쓴 글입니다. 실제 동선은 아래 표가 기준입니다.")
             st.markdown("**에이전트가 스스로 고친 것** (확실히 틀린 부분)")
             for a in actions:
                 label = {"replace": "음식점 교체", "reorder": "순서 변경", "move_day": "날짜 이동"}[a["action"]]
@@ -160,10 +161,11 @@ def day_detail(view: DayView, *, allow_decision: bool) -> None:
 pending = svc.pending()
 with st.sidebar:
     st.title("서울 여행 HITL")
-    # 선택지 값은 고정하고 글자만 바꾼다 (대기 건수가 바뀌어도 선택이 풀리지 않도록)
-    page_labels = {"new": "새 여행", "pending": f"승인 대기 ({len(pending)})", "trips": "여행 보기"}
+    # 메뉴 글자는 고정한다. 글자가 바뀌면 Streamlit이 다른 위젯으로 보고 선택을 처음으로 되돌린다.
+    page_labels = {"new": "새 여행", "pending": "승인 대기", "trips": "여행 보기"}
     page = st.radio("화면", list(page_labels), format_func=page_labels.get, key="page",
                     label_visibility="collapsed")
+    st.markdown(f"⏸ 승인 대기 **{len(pending)}건**" if pending else "승인 대기 없음")
     st.divider()
     st.caption(f"데이터: {data_source}")
     st.caption(f"기준일: {config.REFERENCE_DATE} · 모델: {config.MODEL}")
