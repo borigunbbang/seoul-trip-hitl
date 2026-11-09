@@ -213,10 +213,6 @@
   "distance_m": 408,
   "options": [
    {
-    "mode": "WALK",
-    "minutes": 12
-   },
-   {
     "mode": "BUS",
     "minutes": 10,
     "transfers": 0,
@@ -224,6 +220,10 @@
      "종로11"
     ],
     "last_departure": "22:30"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 12
    }
   ],
   "path": [
@@ -273,10 +273,6 @@
   "distance_m": 783,
   "options": [
    {
-    "mode": "WALK",
-    "minutes": 15
-   },
-   {
     "mode": "BUS",
     "minutes": 8,
     "transfers": 0,
@@ -284,6 +280,10 @@
      "7025"
     ],
     "last_departure": "23:00"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 15
    }
   ],
   "path": [
@@ -627,6 +627,43 @@
    [
     37.5636,
     126.9826
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_bukchon",
+  "to_id": "r_hanjeongsik",
+  "distance_m": 1019,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 10,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00",
+    "fare": null
+   },
+   {
+    "mode": "WALK",
+    "minutes": 16,
+    "transfers": 0,
+    "lines": [],
+    "last_departure": null,
+    "fare": null
+   }
+  ],
+  "path": [
+   [
+    37.582604,
+    126.983998
+   ],
+   [
+    37.5736,
+    126.9862
    ]
   ],
   "last_checked": "2026-11-05",
