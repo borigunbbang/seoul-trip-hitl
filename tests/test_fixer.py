@@ -31,6 +31,7 @@ def test_reorder_fixes_outside_hours(provider):
     r = check_and_fix(day(FRI, ("a_gyeongbok", 120), ("a_bukchon", 60), start="14:00"), provider, REF)
     assert names(r, provider) == ["북촌한옥마을", "경복궁"]
     assert [a.action for a in r.actions] == ["reorder"]
+    assert all(s.reason.endswith("(자동 수정으로 순서가 바뀜)") for s in r.plan.stops)
     assert r.actions[0].fixed_codes == ["OUTSIDE_HOURS"]
     assert r.verdict.decision == "auto_confirm"
 

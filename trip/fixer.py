@@ -71,7 +71,15 @@ def try_reorder(plan: DayPlan, provider: DataProvider, ref: date) -> DayPlan | N
                sum(1 for i, p in enumerate(perm) if i != p), schedule.travel_min)
         if best_key is None or key < best_key:
             best_key, best_plan = key, candidate
-    return best_plan if best_key[0] < base_certain else None
+    if best_key[0] >= base_certain:
+        return None
+    # 순서가 바뀐 장소는 LLM이 적은 이유가 더 이상 맞지 않을 수 있으므로 표시해 둔다
+    original = {s.place_id: i for i, s in enumerate(plan.stops)}
+    note = " (자동 수정으로 순서가 바뀜)"
+    stops = [s if original[s.place_id] == i or s.reason.endswith(note)
+             else s.model_copy(update={"reason": s.reason + note})
+             for i, s in enumerate(best_plan.stops)]
+    return best_plan.model_copy(update={"stops": stops})
 
 
 def replace_restaurant(plan: DayPlan, index: int, provider: DataProvider, ref: date) -> DayPlan | None:
