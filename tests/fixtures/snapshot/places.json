@@ -1,0 +1,552 @@
+[
+ {
+  "id": "a_gyeongbok",
+  "name": "경복궁",
+  "kind": "관광지",
+  "lat": 37.579617,
+  "lng": 126.977041,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [],
+   "wed": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ]
+  },
+  "rating": 4.6,
+  "review_count": 52000,
+  "last_review_date": "2026-11-08",
+  "stay_min": 120,
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "a_folk",
+  "name": "국립민속박물관",
+  "kind": "관광지",
+  "lat": 37.58187,
+  "lng": 126.97946,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ]
+  },
+  "rating": 4.5,
+  "review_count": 9000,
+  "last_review_date": "2026-11-07",
+  "stay_min": 60,
+  "last_checked": "2026-11-05",
+  "source": "fixture",
+  "notice": null
+ },
+ {
+  "id": "a_bukchon",
+  "name": "북촌한옥마을",
+  "kind": "관광지",
+  "lat": 37.582604,
+  "lng": 126.983998,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "17:00"
+    }
+   ]
+  },
+  "rating": 4.4,
+  "review_count": 30000,
+  "last_review_date": "2026-11-08",
+  "stay_min": 60,
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "a_changdeok",
+  "name": "창덕궁",
+  "kind": "관광지",
+  "lat": 37.5794,
+  "lng": 126.991,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "18:00"
+    }
+   ]
+  },
+  "special_days": [
+   {
+    "date": "2026-11-21",
+    "hours": [
+     {
+      "open": "09:00",
+      "close": "13:00"
+     }
+    ],
+    "note": "궁중문화 행사로 오후 관람 제한"
+   }
+  ],
+  "rating": 4.6,
+  "review_count": 21000,
+  "last_review_date": "2026-11-06",
+  "stay_min": 90,
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "a_insadong",
+  "name": "인사동 쌈지길",
+  "kind": "관광지",
+  "lat": 37.5742,
+  "lng": 126.985,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": null,
+  "rating": 4.2,
+  "review_count": 15000,
+  "last_review_date": "2026-11-08",
+  "stay_min": 60,
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "r_tosokchon",
+  "name": "토속촌 삼계탕",
+  "kind": "음식점",
+  "lat": 37.5779,
+  "lng": 126.971,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ]
+  },
+  "rating": 4.3,
+  "review_count": 12000,
+  "last_review_date": "2026-11-01",
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "r_sujebi",
+  "name": "삼청동 수제비",
+  "kind": "음식점",
+  "lat": 37.585,
+  "lng": 126.982,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "rating": 4.2,
+  "review_count": 4000,
+  "last_review_date": "2026-10-28",
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "r_closed",
+  "name": "북촌 칼국수(시험용)",
+  "kind": "음식점",
+  "lat": 37.5815,
+  "lng": 126.9855,
+  "area": "종로",
+  "status": "CLOSED_PERMANENTLY",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00",
+     "close": "20:00"
+    }
+   ]
+  },
+  "rating": 4.0,
+  "review_count": 800,
+  "last_review_date": "2026-04-02",
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "r_hanjeongsik",
+  "name": "인사동 한정식(시험용)",
+  "kind": "음식점",
+  "lat": 37.5736,
+  "lng": 126.9862,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:30",
+     "close": "21:00"
+    }
+   ]
+  },
+  "rating": 4.1,
+  "review_count": 1500,
+  "last_review_date": "2026-11-02",
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "id": "r_bindaetteok",
+  "name": "광장시장 빈대떡(시험용)",
+  "kind": "음식점",
+  "lat": 37.57,
+  "lng": 126.9997,
+  "area": "종로",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "23:00"
+    }
+   ]
+  },
+  "rating": 4.4,
+  "review_count": 20000,
+  "last_review_date": "2026-11-07",
+  "last_checked": "2026-09-01",
+  "source": "fixture"
+ },
+ {
+  "id": "h_myeongdong",
+  "name": "숙소(명동)",
+  "kind": "숙소",
+  "lat": 37.5636,
+  "lng": 126.9826,
+  "area": "명동",
+  "status": "OPERATIONAL",
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ }
+]

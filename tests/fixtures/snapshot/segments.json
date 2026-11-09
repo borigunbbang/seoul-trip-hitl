@@ -1,0 +1,635 @@
+[
+ {
+  "from_id": "h_myeongdong",
+  "to_id": "a_gyeongbok",
+  "distance_m": 1847,
+  "options": [
+   {
+    "mode": "SUBWAY",
+    "minutes": 22,
+    "transfers": 1,
+    "lines": [
+     "4호선",
+     "3호선"
+    ],
+    "last_departure": "23:40"
+   },
+   {
+    "mode": "BUS",
+    "minutes": 25,
+    "transfers": 0,
+    "lines": [
+     "402"
+    ],
+    "last_departure": "23:10"
+   }
+  ],
+  "path": [
+   [
+    37.5636,
+    126.9826
+   ],
+   [
+    37.579617,
+    126.977041
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "h_myeongdong",
+  "to_id": "a_folk",
+  "distance_m": 2050,
+  "options": [
+   {
+    "mode": "SUBWAY",
+    "minutes": 26,
+    "transfers": 1,
+    "lines": [
+     "4호선",
+     "3호선"
+    ],
+    "last_departure": "23:40"
+   },
+   {
+    "mode": "BUS",
+    "minutes": 30,
+    "transfers": 1,
+    "lines": [
+     "402",
+     "종로11"
+    ],
+    "last_departure": "22:50"
+   }
+  ],
+  "path": [
+   [
+    37.5636,
+    126.9826
+   ],
+   [
+    37.58187,
+    126.97946
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "h_myeongdong",
+  "to_id": "a_bukchon",
+  "distance_m": 2116,
+  "options": [
+   {
+    "mode": "SUBWAY",
+    "minutes": 25,
+    "transfers": 1,
+    "lines": [
+     "4호선",
+     "3호선"
+    ],
+    "last_departure": "23:40"
+   },
+   {
+    "mode": "BUS",
+    "minutes": 28,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   }
+  ],
+  "path": [
+   [
+    37.5636,
+    126.9826
+   ],
+   [
+    37.582604,
+    126.983998
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "h_myeongdong",
+  "to_id": "a_changdeok",
+  "distance_m": 1906,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 20,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   },
+   {
+    "mode": "SUBWAY",
+    "minutes": 24,
+    "transfers": 1,
+    "lines": [
+     "4호선",
+     "3호선"
+    ],
+    "last_departure": "23:40"
+   }
+  ],
+  "path": [
+   [
+    37.5636,
+    126.9826
+   ],
+   [
+    37.5794,
+    126.991
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "h_myeongdong",
+  "to_id": "a_insadong",
+  "distance_m": 1197,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 15,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 25
+   }
+  ],
+  "path": [
+   [
+    37.5636,
+    126.9826
+   ],
+   [
+    37.5742,
+    126.985
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_gyeongbok",
+  "to_id": "a_folk",
+  "distance_m": 328,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 6
+   }
+  ],
+  "path": [
+   [
+    37.579617,
+    126.977041
+   ],
+   [
+    37.58187,
+    126.97946
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_folk",
+  "to_id": "a_bukchon",
+  "distance_m": 408,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 12
+   },
+   {
+    "mode": "BUS",
+    "minutes": 10,
+    "transfers": 0,
+    "lines": [
+     "종로11"
+    ],
+    "last_departure": "22:30"
+   }
+  ],
+  "path": [
+   [
+    37.58187,
+    126.97946
+   ],
+   [
+    37.582604,
+    126.983998
+   ]
+  ],
+  "last_checked": "2026-09-15",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_bukchon",
+  "to_id": "a_changdeok",
+  "distance_m": 712,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 12,
+    "transfers": 0,
+    "lines": [
+     "종로02"
+    ],
+    "last_departure": "22:00"
+   }
+  ],
+  "path": [
+   [
+    37.582604,
+    126.983998
+   ],
+   [
+    37.5794,
+    126.991
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_changdeok",
+  "to_id": "a_insadong",
+  "distance_m": 783,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 15
+   },
+   {
+    "mode": "BUS",
+    "minutes": 8,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   }
+  ],
+  "path": [
+   [
+    37.5794,
+    126.991
+   ],
+   [
+    37.5742,
+    126.985
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_gyeongbok",
+  "to_id": "a_bukchon",
+  "distance_m": 697,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 18
+   },
+   {
+    "mode": "BUS",
+    "minutes": 12,
+    "transfers": 0,
+    "lines": [
+     "종로11"
+    ],
+    "last_departure": "22:30"
+   }
+  ],
+  "path": [
+   [
+    37.579617,
+    126.977041
+   ],
+   [
+    37.582604,
+    126.983998
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_gyeongbok",
+  "to_id": "a_insadong",
+  "distance_m": 924,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 15,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   },
+   {
+    "mode": "SUBWAY",
+    "minutes": 14,
+    "transfers": 0,
+    "lines": [
+     "3호선"
+    ],
+    "last_departure": "23:50"
+   }
+  ],
+  "path": [
+   [
+    37.579617,
+    126.977041
+   ],
+   [
+    37.5742,
+    126.985
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_gyeongbok",
+  "to_id": "r_tosokchon",
+  "distance_m": 565,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 10
+   }
+  ],
+  "path": [
+   [
+    37.579617,
+    126.977041
+   ],
+   [
+    37.5779,
+    126.971
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_bukchon",
+  "to_id": "r_sujebi",
+  "distance_m": 319,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 9
+   }
+  ],
+  "path": [
+   [
+    37.582604,
+    126.983998
+   ],
+   [
+    37.585,
+    126.982
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_bukchon",
+  "to_id": "r_closed",
+  "distance_m": 180,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 4
+   }
+  ],
+  "path": [
+   [
+    37.582604,
+    126.983998
+   ],
+   [
+    37.5815,
+    126.9855
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_insadong",
+  "to_id": "r_hanjeongsik",
+  "distance_m": 125,
+  "options": [
+   {
+    "mode": "WALK",
+    "minutes": 3
+   }
+  ],
+  "path": [
+   [
+    37.5742,
+    126.985
+   ],
+   [
+    37.5736,
+    126.9862
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "a_changdeok",
+  "to_id": "r_bindaetteok",
+  "distance_m": 1296,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 15,
+    "transfers": 0,
+    "lines": [
+     "151"
+    ],
+    "last_departure": "23:20"
+   },
+   {
+    "mode": "SUBWAY",
+    "minutes": 18,
+    "transfers": 1,
+    "lines": [
+     "3호선",
+     "1호선"
+    ],
+    "last_departure": "23:45"
+   }
+  ],
+  "path": [
+   [
+    37.5794,
+    126.991
+   ],
+   [
+    37.57,
+    126.9997
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "r_tosokchon",
+  "to_id": "a_bukchon",
+  "distance_m": 1259,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 15,
+    "transfers": 0,
+    "lines": [
+     "종로11"
+    ],
+    "last_departure": "22:30"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 25
+   }
+  ],
+  "path": [
+   [
+    37.5779,
+    126.971
+   ],
+   [
+    37.582604,
+    126.983998
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "r_sujebi",
+  "to_id": "a_changdeok",
+  "distance_m": 1008,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 14,
+    "transfers": 0,
+    "lines": [
+     "종로02"
+    ],
+    "last_departure": "22:00"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 22
+   }
+  ],
+  "path": [
+   [
+    37.585,
+    126.982
+   ],
+   [
+    37.5794,
+    126.991
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "r_hanjeongsik",
+  "to_id": "h_myeongdong",
+  "distance_m": 1156,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 15,
+    "transfers": 0,
+    "lines": [
+     "7025"
+    ],
+    "last_departure": "23:00"
+   },
+   {
+    "mode": "WALK",
+    "minutes": 25
+   }
+  ],
+  "path": [
+   [
+    37.5736,
+    126.9862
+   ],
+   [
+    37.5636,
+    126.9826
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ },
+ {
+  "from_id": "r_bindaetteok",
+  "to_id": "h_myeongdong",
+  "distance_m": 1666,
+  "options": [
+   {
+    "mode": "BUS",
+    "minutes": 20,
+    "transfers": 0,
+    "lines": [
+     "149"
+    ],
+    "last_departure": "21:00"
+   },
+   {
+    "mode": "SUBWAY",
+    "minutes": 22,
+    "transfers": 1,
+    "lines": [
+     "1호선",
+     "4호선"
+    ],
+    "last_departure": "23:30"
+   }
+  ],
+  "path": [
+   [
+    37.57,
+    126.9997
+   ],
+   [
+    37.5636,
+    126.9826
+   ]
+  ],
+  "last_checked": "2026-11-05",
+  "source": "fixture"
+ }
+]
