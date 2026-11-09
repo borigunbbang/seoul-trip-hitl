@@ -46,10 +46,12 @@ cp .env.example .env
 ```
 http://localhost:8501 → **새 여행**에서 동선 만들기 → **승인 대기**에서 상세 확인 후 승인 또는 반려(사유 입력) → **여행 보기**에서 날짜별 지도.
 
+**키가 없으면:** 왼쪽 사이드바의 **"예시 시나리오 불러오기"**를 누른다. REPORT의 여행 4건이 저장된 LLM 응답으로 만들어져 승인 대기 4건이 바로 생긴다. 이 4건은 승인하거나 REPORT와 같은 사유로 반려(다시 짜기)할 수 있다. 다른 사유로 반려하거나 새 여행을 만들려면 OpenAI 키가 필요하다.
+
 저장한 데이터(`data/snapshot/`)로 바로 실행된다. 스냅샷이 없으면 `tests/fixtures/`의 시험용 데이터를 쓴다.
 
 ```bash
-.venv/bin/python -m pytest                     # 테스트 74개
+.venv/bin/python -m pytest                     # 테스트 75개
 .venv/bin/python scripts/run_scenarios.py      # REPORT의 시나리오 4건 재실행 → results/results.md
 ```
 시나리오는 LLM 캐시로 돌아서 키 없이도 같은 결과가 나온다.

@@ -11,6 +11,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 import config
+from trip.examples import load_examples
 from trip.maps import folium_map, kakao_html, map_data
 from trip.plan import Issue
 from trip.planner import LLMPlanner
@@ -28,9 +29,12 @@ MODE_LABEL = {"WALK": "도보", "BUS": "버스", "SUBWAY": "지하철", "BUS_SUB
 
 # ── 준비 ──────────────────────────────────────────────────────────
 
+USING_SNAPSHOT = (config.SNAPSHOT_DIR / "places.json").exists()
+
+
 @st.cache_resource
 def get_service() -> tuple[TripService, str]:
-    if (config.SNAPSHOT_DIR / "places.json").exists():
+    if USING_SNAPSHOT:
         provider = SnapshotProvider(config.SNAPSHOT_DIR, config.OVERRIDES_PATH)
         source = "스냅샷 (실제 수집 데이터)"
     else:
@@ -159,6 +163,8 @@ def day_detail(view: DayView, *, allow_decision: bool) -> None:
 # ── 화면 ──────────────────────────────────────────────────────────
 
 pending = svc.pending()
+if goto := st.session_state.pop("goto", None):        # 위젯을 만들기 전에만 선택을 바꿀 수 있다
+    st.session_state.page = goto
 with st.sidebar:
     st.title("서울 여행 HITL")
     # 메뉴 글자는 고정한다. 글자가 바뀌면 Streamlit이 다른 위젯으로 보고 선택을 처음으로 되돌린다.
@@ -166,6 +172,15 @@ with st.sidebar:
     page = st.radio("화면", list(page_labels), format_func=page_labels.get, key="page",
                     label_visibility="collapsed")
     st.markdown(f"⏸ 승인 대기 **{len(pending)}건**" if pending else "승인 대기 없음")
+    if USING_SNAPSHOT:
+        if st.button("예시 시나리오 불러오기", use_container_width=True,
+                     help="REPORT의 여행 4건(승인 대기 4일 포함)을 만듭니다. 저장된 LLM 응답을 써서 OpenAI 키가 없어도 됩니다."):
+            with st.spinner("예시 여행 4건을 만드는 중…"):
+                created = load_examples(svc)
+            st.session_state.flash = (f"예시 여행 {len(created)}건을 불러왔습니다. 승인 대기 건을 확인해 보세요." if created
+                                      else "예시 여행은 이미 불러와 있습니다.")
+            st.session_state.goto = "pending"
+            st.rerun()
     st.divider()
     st.caption(f"데이터: {data_source}")
     st.caption(f"기준일: {config.REFERENCE_DATE} · 모델: {config.MODEL}")
@@ -215,7 +230,8 @@ if page == "new":
 elif page == "pending":
     st.header("승인 대기")
     if not pending:
-        st.info("승인을 기다리는 날이 없습니다.")
+        st.info("승인을 기다리는 날이 없습니다. '새 여행'에서 동선을 만들거나, 왼쪽의 '예시 시나리오 불러오기'를 누르세요"
+                "(키 없이 승인 대기 4건이 생깁니다).")
     else:
         trips = {t["trip_id"]: t for t in svc.trips()}
         labels = {}
