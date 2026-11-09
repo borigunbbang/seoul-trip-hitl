@@ -1,0 +1,2660 @@
+[
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_gyeongbok",
+  "name": "경복궁",
+  "kind": "관광지",
+  "lat": 37.577613288258206,
+  "lng": 126.97689786832184,
+  "area": "종로",
+  "address": "서울 종로구 사직로 161",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "tue": [],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.8,
+  "review_count": 914,
+  "last_review_date": "2026-11-09",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_folk",
+  "name": "국립민속박물관",
+  "kind": "관광지",
+  "lat": 37.581699691218866,
+  "lng": 126.9790159546164,
+  "area": "종로",
+  "address": "서울 종로구 삼청로 37",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "17:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.5,
+  "review_count": 78,
+  "last_review_date": "2026-10-16",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_changdeok",
+  "name": "창덕궁",
+  "kind": "관광지",
+  "lat": 37.57964694739535,
+  "lng": 126.99099980677127,
+  "area": "종로",
+  "address": "서울 종로구 율곡로 99",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.8,
+  "review_count": 343,
+  "last_review_date": "2026-11-06",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_changgyeong",
+  "name": "창경궁",
+  "kind": "관광지",
+  "lat": 37.5794165384496,
+  "lng": 126.995199911733,
+  "area": "종로",
+  "address": "서울 종로구 창경궁로 185",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.9,
+  "review_count": 564,
+  "last_review_date": "2026-11-08",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_jongmyo",
+  "name": "종묘",
+  "kind": "관광지",
+  "lat": 37.5761080433804,
+  "lng": 126.994212979827,
+  "area": "종로",
+  "address": "서울 종로구 종로 157",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "tue": [],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "17:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.7,
+  "review_count": 206,
+  "last_review_date": "2026-11-05",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_deoksu",
+  "name": "덕수궁",
+  "kind": "관광지",
+  "lat": 37.5655638710672,
+  "lng": 126.974894754989,
+  "area": "시청",
+  "address": "서울 중구 세종대로 99",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.8,
+  "review_count": 743,
+  "last_review_date": "2026-11-06",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_bukchon",
+  "name": "북촌한옥마을",
+  "kind": "관광지",
+  "lat": 37.581768153833444,
+  "lng": 126.98481245064092,
+  "area": "종로",
+  "address": "서울 종로구 북촌로 53",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "17:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.3,
+  "review_count": 235,
+  "last_review_date": "2026-10-16",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_insadong",
+  "name": "인사동 쌈지길",
+  "kind": "관광지",
+  "lat": 37.5743520602942,
+  "lng": 126.984731319433,
+  "area": "종로",
+  "address": "서울 종로구 인사동길 44",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:30:00",
+     "close": "20:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.2,
+  "review_count": 120,
+  "last_review_date": "2026-10-12",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_mmca",
+  "name": "국립현대미술관 서울",
+  "kind": "관광지",
+  "lat": 37.578627489574416,
+  "lng": 126.9800979573524,
+  "area": "종로",
+  "address": "서울 종로구 삼청로 30",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "18:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 341,
+  "last_review_date": "2026-11-01",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_seoulmuseum",
+  "name": "서울역사박물관",
+  "kind": "관광지",
+  "lat": 37.5705003227005,
+  "lng": 126.970546366796,
+  "area": "시청",
+  "address": "서울 종로구 새문안로 55",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 109,
+  "last_review_date": "2026-10-03",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_ntower",
+  "name": "N서울타워",
+  "kind": "관광지",
+  "lat": 37.5513049702718,
+  "lng": 126.988230622132,
+  "area": "남산",
+  "address": "서울 용산구 남산공원길 105",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.3,
+  "review_count": 150,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_namsangol",
+  "name": "남산골한옥마을",
+  "kind": "관광지",
+  "lat": 37.55954236008625,
+  "lng": 126.99473828260912,
+  "area": "남산",
+  "address": "서울 중구 퇴계로34길 28",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "20:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 123,
+  "last_review_date": "2026-10-16",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_myeongdong_cathedral",
+  "name": "명동대성당",
+  "kind": "관광지",
+  "lat": 37.56318453011765,
+  "lng": 126.98735609674071,
+  "area": "명동",
+  "address": "서울 중구 명동길 74",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "19:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "19:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "19:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "19:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "19:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "07:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 181,
+  "last_review_date": "2026-10-25",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_ddp",
+  "name": "동대문디자인플라자",
+  "kind": "관광지",
+  "lat": 37.56719512417004,
+  "lng": 127.00992120255088,
+  "area": "동대문",
+  "address": "서울 중구 을지로 281",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "20:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.3,
+  "review_count": 335,
+  "last_review_date": "2026-10-25",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_gwangjang",
+  "name": "광장시장",
+  "kind": "관광지",
+  "lat": 37.57005529646949,
+  "lng": 126.99894728223626,
+  "area": "종로",
+  "address": "서울 종로구 창경궁로 88",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00:00",
+     "close": "18:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 2.9,
+  "review_count": 1204,
+  "last_review_date": "2026-10-05",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_nationalmuseum",
+  "name": "국립중앙박물관",
+  "kind": "관광지",
+  "lat": 37.52392249364415,
+  "lng": 126.98018716127058,
+  "area": "용산",
+  "address": "서울 용산구 서빙고로 137",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "09:30:00",
+     "close": "17:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "09:30:00",
+     "close": "17:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:30:00",
+     "close": "17:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:30:00",
+     "close": "17:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:30:00",
+     "close": "17:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.7,
+  "review_count": 900,
+  "last_review_date": "2026-11-06",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_warmemorial",
+  "name": "전쟁기념관",
+  "kind": "관광지",
+  "lat": 37.53706844515933,
+  "lng": 126.9770880207577,
+  "area": "용산",
+  "address": "서울 용산구 이태원로 29",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:30:00",
+     "close": "17:40:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 315,
+  "last_review_date": "2026-11-01",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_seoulforest",
+  "name": "서울숲",
+  "kind": "관광지",
+  "lat": 37.5443222301513,
+  "lng": 127.037617759165,
+  "area": "성수",
+  "address": "서울 성동구 성수동1가 678-1",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "00:00:00",
+     "close": "23:59:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.6,
+  "review_count": 594,
+  "last_review_date": "2026-11-08",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_seoulsky",
+  "name": "서울스카이",
+  "kind": "관광지",
+  "lat": 37.512509075161674,
+  "lng": 127.10243669217601,
+  "area": "잠실",
+  "address": "서울 송파구 올림픽로 300",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:30:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:30:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:30:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:30:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:30:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:30:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:30:00",
+     "close": "22:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.9,
+  "review_count": 242,
+  "last_review_date": "2026-11-06",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "a_seokchon",
+  "name": "석촌호수",
+  "kind": "관광지",
+  "lat": 37.5076807262772,
+  "lng": 127.099112837006,
+  "area": "잠실",
+  "address": "서울 송파구 잠실동 47",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00:00",
+     "close": "22:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.6,
+  "review_count": 231,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_tosokchon",
+  "name": "토속촌삼계탕",
+  "kind": "음식점",
+  "lat": 37.5777229294346,
+  "lng": 126.971494461387,
+  "area": "종로",
+  "address": "서울 종로구 자하문로5길 5",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "22:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.6,
+  "review_count": 719,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_memil",
+  "name": "잘빠진메밀 서촌점",
+  "kind": "음식점",
+  "lat": 37.57966895174509,
+  "lng": 126.97098201026118,
+  "area": "종로",
+  "address": "서울 종로구 자하문로11길 4",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.5,
+  "review_count": 246,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_doryang",
+  "name": "도량",
+  "kind": "음식점",
+  "lat": 37.5779682393559,
+  "lng": 126.97250417817,
+  "area": "종로",
+  "address": "서울 종로구 자하문로6길 6",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.2,
+  "review_count": 219,
+  "last_review_date": "2026-11-05",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_jonggak_bapsang",
+  "name": "종각밥상",
+  "kind": "음식점",
+  "lat": 37.5709607768455,
+  "lng": 126.985216494195,
+  "area": "종로",
+  "address": "서울 종로구 종로11길 9-10",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": []
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.4,
+  "review_count": 16,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_gukbap",
+  "name": "엄용백돼지국밥 종각점",
+  "kind": "음식점",
+  "lat": 37.571894277369,
+  "lng": 126.985782300881,
+  "area": "종로",
+  "address": "서울 종로구 인사동3길 20",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "08:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "08:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.6,
+  "review_count": 271,
+  "last_review_date": "2026-10-05",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_ilwol",
+  "name": "일월카츠 안국점",
+  "kind": "음식점",
+  "lat": 37.5773398123206,
+  "lng": 126.985156365758,
+  "area": "종로",
+  "address": "서울 종로구 북촌로1길 11",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "20:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.6,
+  "review_count": 360,
+  "last_review_date": "2026-10-31",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_italijae",
+  "name": "이태리재",
+  "kind": "음식점",
+  "lat": 37.5787737127921,
+  "lng": 126.981719066359,
+  "area": "종로",
+  "address": "서울 종로구 율곡로1길 74-9",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "18:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "18:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "18:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "18:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "18:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "12:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.4,
+  "review_count": 142,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_bugeoguk",
+  "name": "무교동북어국집",
+  "kind": "음식점",
+  "lat": 37.56773441926809,
+  "lng": 126.9798518336699,
+  "area": "시청",
+  "address": "서울 중구 을지로1길 38",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "07:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "07:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "07:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "07:00:00",
+     "close": "20:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "07:00:00",
+     "close": "15:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "07:00:00",
+     "close": "15:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": "직원 병가로 인한 임시휴무 공지 (매주 월요일)",
+  "rating": 4.6,
+  "review_count": 506,
+  "last_review_date": "2026-10-11",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_sanchae",
+  "name": "남산산채집",
+  "kind": "음식점",
+  "lat": 37.556792627676884,
+  "lng": 126.98536415815764,
+  "area": "남산",
+  "address": "서울 중구 소파로 95",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:30:00",
+     "close": "20:50:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.9,
+  "review_count": 299,
+  "last_review_date": "2026-11-02",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_choryuhyang",
+  "name": "초류향",
+  "kind": "음식점",
+  "lat": 37.5674786354639,
+  "lng": 126.980440498664,
+  "area": "명동",
+  "address": "서울 중구 다동길 24-10",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "12:00:00",
+     "close": "16:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": []
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.5,
+  "review_count": 371,
+  "last_review_date": "2026-11-07",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_jinju_yukhoe",
+  "name": "진주육회",
+  "kind": "음식점",
+  "lat": 37.570497683714585,
+  "lng": 127.00120780268557,
+  "area": "종로",
+  "address": "서울 종로구 동호로 403-22",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "23:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.3,
+  "review_count": 65,
+  "last_review_date": "2026-10-25",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_buchon_yukhoe",
+  "name": "부촌육회 본점",
+  "kind": "음식점",
+  "lat": 37.5703778574977,
+  "lng": 126.999932082432,
+  "area": "종로",
+  "address": "서울 종로구 종로 200-12",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00:00",
+     "close": "21:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.1,
+  "review_count": 546,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_momoya",
+  "name": "모모야 이촌동본점",
+  "kind": "음식점",
+  "lat": 37.52067252495559,
+  "lng": 126.97514735726085,
+  "area": "용산",
+  "address": "서울 용산구 이촌로77길 19",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00:00",
+     "close": "14:30:00"
+    },
+    {
+     "open": "17:30:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.9,
+  "review_count": 100,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_geoulmot",
+  "name": "거울못식당",
+  "kind": "음식점",
+  "lat": 37.5230341320418,
+  "lng": 126.980348032809,
+  "area": "용산",
+  "address": "서울 용산구 서빙고로 137",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:00:00",
+     "close": "15:30:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 2.0,
+  "review_count": 63,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_seoulloin",
+  "name": "서울로인 서울숲점",
+  "kind": "음식점",
+  "lat": 37.54567732883673,
+  "lng": 127.04291426163276,
+  "area": "성수",
+  "address": "서울 성동구 서울숲2길 32-14",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "22:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.2,
+  "review_count": 51,
+  "last_review_date": "2026-09-29",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_onryu",
+  "name": "온류",
+  "kind": "음식점",
+  "lat": 37.54709561339284,
+  "lng": 127.04002947623503,
+  "area": "성수",
+  "address": "서울 성동구 서울숲2길 14-8",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:30:00",
+     "close": "15:00:00"
+    },
+    {
+     "open": "17:00:00",
+     "close": "21:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 4.2,
+  "review_count": 38,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_cheongwaok",
+  "name": "청와옥 석촌호수점",
+  "kind": "음식점",
+  "lat": 37.505703495912,
+  "lng": 127.097458989559,
+  "area": "잠실",
+  "address": "서울 송파구 삼학사로 96",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "08:00:00",
+     "close": "22:00:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.7,
+  "review_count": 306,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "r_gunsan_ojingeo",
+  "name": "군산오징어 잠실본점",
+  "kind": "음식점",
+  "lat": 37.506261589711286,
+  "lng": 127.09700731897676,
+  "area": "잠실",
+  "address": "서울 송파구 삼학사로 101",
+  "status": "OPERATIONAL",
+  "weekly_hours": {
+   "mon": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "11:30:00",
+     "close": "22:30:00"
+    }
+   ]
+  },
+  "special_days": [],
+  "notice": null,
+  "rating": 3.0,
+  "review_count": 141,
+  "last_review_date": "2026-09-30",
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오맵 장소 페이지 수동 확인"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "h_myeongdong",
+  "name": "숙소(명동역)",
+  "kind": "숙소",
+  "lat": 37.56096526943837,
+  "lng": 126.98640235001736,
+  "area": "명동",
+  "address": "서울 중구 퇴계로 지하 126",
+  "status": "OPERATIONAL",
+  "weekly_hours": null,
+  "special_days": [],
+  "notice": null,
+  "rating": null,
+  "review_count": null,
+  "last_review_date": null,
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오 장소 검색"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "h_anguk",
+  "name": "숙소(안국역)",
+  "kind": "숙소",
+  "lat": 37.57650192060523,
+  "lng": 126.98542143228659,
+  "area": "종로",
+  "address": "서울 종로구 율곡로 지하 62",
+  "status": "OPERATIONAL",
+  "weekly_hours": null,
+  "special_days": [],
+  "notice": null,
+  "rating": null,
+  "review_count": null,
+  "last_review_date": null,
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오 장소 검색"
+ },
+ {
+  "overridden": {},
+  "override_reason": null,
+  "id": "h_jamsil",
+  "name": "숙소(잠실역)",
+  "kind": "숙소",
+  "lat": 37.51331105877401,
+  "lng": 127.10023101886318,
+  "area": "잠실",
+  "address": "서울 송파구 올림픽로 지하 265",
+  "status": "OPERATIONAL",
+  "weekly_hours": null,
+  "special_days": [],
+  "notice": null,
+  "rating": null,
+  "review_count": null,
+  "last_review_date": null,
+  "stay_min": null,
+  "last_checked": "2026-11-09",
+  "source": "카카오 장소 검색"
+ }
+]

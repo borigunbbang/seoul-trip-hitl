@@ -63,9 +63,9 @@ def test_walk_segments_are_never_flagged(provider):
 def test_c2_stale_review_uses_override(provider):
     plan = day(FRI, ("a_bukchon", 60), ("r_sujebi", 60, "점심"))
     issue = next(i for i in run(plan, provider) if i.code == "C2_STALE_REVIEW")
-    assert issue.value == "최근 리뷰 152일 전(2026-06-10)"
+    assert issue.value == "최근 리뷰 152일 전(2026-06-10) ※시연용으로 바꾼 값"   # 덮어쓴 값임을 사람에게도 알린다
     assert issue.threshold == "90일 이내"
-    assert issue.message == "[기준 2] 삼청동 수제비: 최근 리뷰 152일 전(2026-06-10) (기준: 90일 이내)"
+    assert issue.message == "[기준 2] 삼청동 수제비: 최근 리뷰 152일 전(2026-06-10) ※시연용으로 바꾼 값 (기준: 90일 이내)"
 
 
 def test_c2_review_boundary(provider):
@@ -113,7 +113,7 @@ def test_c4_stale_segments(provider):
     stale = {i.target: i.value for i in issues if i.code == "C4_STALE_SEGMENT"}
     assert stale == {
         "국립민속박물관 → 북촌한옥마을": "마지막 확인 55일 전(2026-09-15)",
-        "창덕궁 → 인사동 쌈지길": "마지막 확인 81일 전(2026-08-20)",   # 덮어쓰기 사례
+        "창덕궁 → 인사동 쌈지길": "마지막 확인 81일 전(2026-08-20) ※시연용으로 바꾼 값",   # 덮어쓰기 사례
     }
 
 

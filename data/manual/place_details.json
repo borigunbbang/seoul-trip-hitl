@@ -1,0 +1,2255 @@
+{
+  "a_gyeongbok": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.8,
+    "review_count": 914,
+    "last_review_date": "2026-11-09",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/18619553",
+    "memo": "입장마감 16:00; 화 정기휴일(정기휴일이 공휴일·대체공휴일과 겹치면 개방, 다음 첫 비공휴일 휴무)"
+  },
+  "a_folk": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.5,
+    "review_count": 78,
+    "last_review_date": "2026-10-16",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8191467",
+    "memo": "입장마감 관람종료 1시간 전"
+  },
+  "a_changdeok": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.8,
+    "review_count": 343,
+    "last_review_date": "2026-11-06",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/10771162",
+    "memo": "입장마감 16:30; 월 정기휴일(정기휴일이 공휴일·대체공휴일과 겹치면 개방, 다음 첫 비공휴일 휴무)"
+  },
+  "a_changgyeong": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.9,
+    "review_count": 564,
+    "last_review_date": "2026-11-08",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/11156260",
+    "memo": "입장마감 20:00; 월 정기휴일(정기휴일이 공휴일·대체공휴일과 겹치면 개방, 다음 첫 비공휴일 휴무)"
+  },
+  "a_jongmyo": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "tue": [],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.7,
+    "review_count": 206,
+    "last_review_date": "2026-11-05",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8075129",
+    "memo": "평일(월·수·목·금)은 시간제관람만(09:20~16:20 매시 20분 입장, 해설사 동반 약 1시간, 일반관람 불가); 토·일 자유관람, 입장마감 16:30; 매달 마지막 수요일 09:00~17:30; 화 정기휴일"
+  },
+  "a_deoksu": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.8,
+    "review_count": 743,
+    "last_review_date": "2026-11-06",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/10305191",
+    "memo": "입장마감 20:00; 월 정기휴일(공휴일과 겹치면 개방, 익일 휴무)"
+  },
+  "a_bukchon": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.3,
+    "review_count": 235,
+    "last_review_date": "2026-10-16",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/781129546",
+    "memo": "무료입장(주거지역, 관람 10:00~17:00)"
+  },
+  "a_insadong": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.2,
+    "review_count": 120,
+    "last_review_date": "2026-10-12",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/7984319",
+    "memo": "무료입장"
+  },
+  "a_mmca": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 341,
+    "last_review_date": "2026-11-01",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/17952661",
+    "memo": "수·토 21:00까지 야간개장"
+  },
+  "a_seoulmuseum": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 109,
+    "last_review_date": "2026-10-03",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/7934135",
+    "memo": "월 휴관; 목 18:00까지(그 외 21:00)"
+  },
+  "a_ntower": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.3,
+    "review_count": 150,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1629378951",
+    "memo": "전망대"
+  },
+  "a_namsangol": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 123,
+    "last_review_date": "2026-10-16",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8246127",
+    "memo": "월 휴관, 공휴일 다음날 정기휴관; 동절기 시간"
+  },
+  "a_myeongdong_cathedral": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 181,
+    "last_review_date": "2026-10-25",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/10327558",
+    "memo": "지하성지 매일 07:00~19:00, 성당경내 매일 06:00~22:00"
+  },
+  "a_ddp": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.3,
+    "review_count": 335,
+    "last_review_date": "2026-10-25",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/25022134",
+    "memo": "무료입장(전시별 유료)"
+  },
+  "a_gwangjang": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 2.9,
+    "review_count": 1204,
+    "last_review_date": "2026-10-05",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/27383851",
+    "memo": "시장 운영 09:00~18:00(점포별 상이)"
+  },
+  "a_nationalmuseum": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.7,
+    "review_count": 900,
+    "last_review_date": "2026-11-06",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8830150",
+    "memo": "입장마감 폐관 30분 전; 수·토 21:00까지; 정기휴실 3·6·9·12월 첫째 월(다음 12/7); 옥외전시장 07~22시"
+  },
+  "a_warmemorial": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "17:40"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 315,
+    "last_review_date": "2026-11-01",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8077761",
+    "memo": "월 휴관; 접수마감 17:00; 무료입장"
+  },
+  "a_seoulforest": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.6,
+    "review_count": 594,
+    "last_review_date": "2026-11-08",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/11331488",
+    "memo": "24시간 개방, 무료입장"
+  },
+  "a_seoulsky": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.9,
+    "review_count": 242,
+    "last_review_date": "2026-11-06",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/680691609",
+    "memo": "영업종료 1시간 전 입장·매표 마감; 금·토 23:00까지"
+  },
+  "a_seokchon": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.6,
+    "review_count": 231,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/7947003",
+    "memo": "연중무휴, 무료"
+  },
+  "r_tosokchon": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.6,
+    "review_count": 719,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/26545925",
+    "memo": "연중무휴; 라스트오더 21:00"
+  },
+  "r_memil": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.5,
+    "review_count": 246,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/24869605",
+    "memo": "브레이크 15:00~17:00; 라스트오더 20:20"
+  },
+  "r_doryang": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.2,
+    "review_count": 219,
+    "last_review_date": "2026-11-05",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/811744471",
+    "memo": "월 휴무; 브레이크 14:30~17:00"
+  },
+  "r_jonggak_bapsang": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": []
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.4,
+    "review_count": 16,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/529153795",
+    "memo": "일 휴무; 브레이크 14:30~17:00; 라스트오더 21:30"
+  },
+  "r_gukbap": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.6,
+    "review_count": 271,
+    "last_review_date": "2026-10-05",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/416934208",
+    "memo": "평일 브레이크 15:30~17:00(주말 없음); 라스트오더 20:30"
+  },
+  "r_ilwol": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.6,
+    "review_count": 360,
+    "last_review_date": "2026-10-31",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1263230815",
+    "memo": "브레이크 15:00~17:00; 라스트오더 점심 14:15·저녁 19:30; 캐치테이블 원격줄서기"
+  },
+  "r_italijae": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.4,
+    "review_count": 142,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/792642248",
+    "memo": "월 휴무; 브레이크 15:00~18:00(일 ~17:30); 점심 라스트오더 14:00"
+  },
+  "r_bugeoguk": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": "직원 병가로 인한 임시휴무 공지 (매주 월요일)",
+    "rating": 4.6,
+    "review_count": 506,
+    "last_review_date": "2026-10-11",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/11064200",
+    "memo": "월 휴무(직원 병가 임시휴무); 주말 15:00까지; 단일메뉴 북어해장국"
+  },
+  "r_sanchae": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "20:50"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.9,
+    "review_count": 299,
+    "last_review_date": "2026-11-02",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8246125",
+    "memo": "매일, 브레이크 없음"
+  },
+  "r_choryuhyang": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": []
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.5,
+    "review_count": 371,
+    "last_review_date": "2026-11-07",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8577709",
+    "memo": "일 휴무; 브레이크 평일 15:00~17:00, 토 16:00~17:00"
+  },
+  "r_jinju_yukhoe": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.3,
+    "review_count": 65,
+    "last_review_date": "2026-10-25",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1026202848",
+    "memo": "매일; 종로5가(광장시장 인근)"
+  },
+  "r_buchon_yukhoe": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.1,
+    "review_count": 546,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/21852953",
+    "memo": "라스트오더 21:00; 웨이팅 잦음"
+  },
+  "r_momoya": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "14:30"
+        },
+        {
+          "open": "17:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.9,
+    "review_count": 100,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/21393229",
+    "memo": "월 휴무; 브레이크 14:30~17:30; 라스트오더 20:00"
+  },
+  "r_geoulmot": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "15:30"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 2.0,
+    "review_count": 63,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1851189141",
+    "memo": "브레이크 15:30~17:00; 국립중앙박물관 내"
+  },
+  "r_seoulloin": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.2,
+    "review_count": 51,
+    "last_review_date": "2026-09-29",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/887613849",
+    "memo": "브레이크 15:00~17:00; 라스트오더 21:00"
+  },
+  "r_onryu": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 4.2,
+    "review_count": 38,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1624025269",
+    "memo": "월·화 휴무; 브레이크 15:00~17:00; 라스트오더 점심 14:00·저녁 20:00"
+  },
+  "r_cheongwaok": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.7,
+    "review_count": 306,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/1228208521",
+    "memo": "매일, 브레이크 없음"
+  },
+  "r_gunsan_ojingeo": {
+    "status": "OPERATIONAL",
+    "weekly_hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ]
+    },
+    "special_days": [],
+    "notice": null,
+    "rating": 3.0,
+    "review_count": 141,
+    "last_review_date": "2026-09-30",
+    "last_checked": "2026-11-09",
+    "page_url": "https://place.map.kakao.com/8219772",
+    "memo": "매일, 브레이크 없음; 주차 가능"
+  }
+}

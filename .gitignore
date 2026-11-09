@@ -16,3 +16,6 @@ data/app.sqlite-*
 .DS_Store
 .omc/
 .claude/
+
+# 수집 원본 (API 응답 캐시, 다시 받을 수 있음)
+data/raw/

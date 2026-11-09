@@ -49,7 +49,7 @@ def check_visit(v: Visit, schedule: Schedule, ref: date) -> list[Issue]:
 
     def add(kind, code, value, threshold="", criterion=None):
         out.append(Issue(kind=kind, code=code, criterion=criterion, target=p.name, target_id=p.id,
-                         stop_index=v.index, value=value, threshold=threshold))
+                         stop_index=v.index, value=value + _override_mark(p), threshold=threshold))
 
     # 영업 상태
     if p.status == "CLOSED_PERMANENTLY" and fresh:
@@ -111,7 +111,7 @@ def check_leg(leg: Leg, label: str, ref: date) -> list[Issue]:
 
     def add(kind, code, value, threshold="", criterion=None):
         out.append(Issue(kind=kind, code=code, criterion=criterion, target=label, target_id=tid,
-                         value=value, threshold=threshold))
+                         value=value + _override_mark(seg), threshold=threshold))
 
     if seg.best.mode not in TRANSIT_MODES:      # 걸어서 가는 구간은 노선이 사라질 위험이 없다
         return out
@@ -137,6 +137,11 @@ def check_leg(leg: Leg, label: str, ref: date) -> list[Issue]:
         add("uncertain", "C4_STALE_SEGMENT", f"마지막 확인 {days_since(seg.last_checked, ref)}일 전({seg.last_checked})",
             f"{config.INFO_STALE_DAYS}일 이내", 4)
     return out
+
+
+def _override_mark(item) -> str:
+    """기준 시연을 위해 값을 바꾼 항목이면 사람이 보는 이유에도 그 사실을 붙인다."""
+    return " ※시연용으로 바꾼 값" if item.is_overridden else ""
 
 
 def _option_label(seg: Segment) -> str:

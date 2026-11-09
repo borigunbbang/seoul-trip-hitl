@@ -1,0 +1,147 @@
+[
+ {
+  "target": "place",
+  "id": "r_geoulmot",
+  "set": {
+   "last_review_date": "2026-06-15"
+  },
+  "reason": "기준 2 시연: 최근 리뷰가 147일 전인 음식점(폐업 의심). 실제 최근 사진 후기는 2026-09-30"
+ },
+ {
+  "target": "place",
+  "id": "r_memil",
+  "set": {
+   "status": "CLOSED_PERMANENTLY"
+  },
+  "reason": "자동 수정 시연: 폐업 확인된 음식점 → 근처 음식점으로 교체. 실제로는 영업 중"
+ },
+ {
+  "target": "place",
+  "id": "a_changdeok",
+  "set": {
+   "special_days": [
+    {
+     "date": "2026-11-21",
+     "hours": [
+      {
+       "open": "09:00",
+       "close": "13:00"
+      }
+     ],
+     "note": "궁중문화 행사로 오후 관람 제한(시연용)"
+    }
+   ]
+  },
+  "reason": "기준 3 시연: 특별 운영일. 실제 카카오맵에는 11월 특별 운영 정보 없음"
+ },
+ {
+  "target": "place",
+  "id": "a_ddp",
+  "set": {
+   "last_checked": "2026-09-01"
+  },
+  "reason": "기준 4 시연: 69일 전에 확인한 장소 정보"
+ },
+ {
+  "target": "segment",
+  "from": "h_myeongdong",
+  "to": "a_gwangjang",
+  "set": {
+   "options": [
+    {
+     "mode": "SUBWAY",
+     "minutes": 16,
+     "transfers": 1,
+     "lines": [
+      "4호선",
+      "5호선"
+     ],
+     "last_departure": "21:00",
+     "fare": 1550
+    },
+    {
+     "mode": "SUBWAY",
+     "minutes": 19,
+     "transfers": 1,
+     "lines": [
+      "4호선",
+      "2호선"
+     ],
+     "last_departure": null,
+     "fare": 1550
+    },
+    {
+     "mode": "BUS_SUBWAY",
+     "minutes": 19,
+     "transfers": 1,
+     "lines": [
+      "4호선",
+      "173"
+     ],
+     "last_departure": null,
+     "fare": 1550
+    },
+    {
+     "mode": "BUS_SUBWAY",
+     "minutes": 20,
+     "transfers": 1,
+     "lines": [
+      "4호선",
+      "271"
+     ],
+     "last_departure": null,
+     "fare": null
+    },
+    {
+     "mode": "SUBWAY",
+     "minutes": 20,
+     "transfers": 1,
+     "lines": [
+      "4호선",
+      "1호선"
+     ],
+     "last_departure": null,
+     "fare": 1550
+    },
+    {
+     "mode": "WALK",
+     "minutes": 30,
+     "transfers": 0,
+     "lines": [],
+     "last_departure": null,
+     "fare": null
+    }
+   ]
+  },
+  "reason": "기준 1 시연: 추천 경로 막차 21:00. 카카오 경로 API는 막차 시각을 주지 않음"
+ },
+ {
+  "target": "segment",
+  "from": "a_namsangol",
+  "to": "a_ntower",
+  "set": {
+   "options": [
+    {
+     "mode": "BUS",
+     "minutes": 26,
+     "transfers": 0,
+     "lines": [
+      "01B"
+     ],
+     "last_departure": null,
+     "fare": 1400
+    }
+   ]
+  },
+  "reason": "기준 1 시연: 대안 없는 구간(버스 01B 하나만 남김, 실제로는 도보·01A도 가능)"
+ },
+ {
+  "target": "segment",
+  "from": "a_bukchon",
+  "to": "a_changdeok",
+  "set": {
+   "last_checked": "2026-08-20"
+  },
+  "reason": "기준 4 시연: 81일 전에 확인한 구간"
+ }
+]
