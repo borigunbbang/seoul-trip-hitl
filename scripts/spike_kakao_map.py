@@ -8,7 +8,6 @@ import sys
 from pathlib import Path
 
 import streamlit as st
-import streamlit.components.v1 as components
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import config  # noqa: E402
@@ -61,5 +60,5 @@ document.head.appendChild(s);
 """
 html = html.replace("__POINTS__", json.dumps(points, ensure_ascii=False)).replace("__KEY__", config.KAKAO_JS_KEY)
 
-components.html(html, height=500)
+st.iframe(html, height=500)
 st.caption("마커를 누르면 장소 이름이 나옵니다.")

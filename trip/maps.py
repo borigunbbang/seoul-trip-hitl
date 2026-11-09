@@ -12,7 +12,8 @@ from datetime import date
 from trip.plan import Issue
 from trip.provider import DataProvider
 
-COLORS = {"ok": "#2563eb", "flag": "#dc2626", "lodging": "#475569", "walk": "#64748b"}
+# 가을 테마(trip/theme.py)에 맞춘 색. 경로는 따뜻한 화면과 구분되게 차분한 청회색으로 둔다.
+COLORS = {"route": "#5C6F78", "pin": "#9A5B34", "flag": "#B23A26", "lodging": "#3A2E28", "walk": "#9A8C7E"}
 
 
 def _hours_text(place, d: date) -> str:
@@ -69,14 +70,14 @@ def kakao_html(data: dict, js_key: str, height: int = 460) -> str:
     """카카오맵 HTML. 데이터는 JSON으로 넘기고 화면 글자는 textContent로 넣는다(HTML 주입 방지)."""
     payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     return f"""
-<div id="map" style="width:100%;height:{height}px;border-radius:10px"></div>
-<div id="status" style="font:12px sans-serif;color:#64748b;margin-top:4px"></div>
+<div id="map" style="width:100%;height:{height}px;border-radius:16px;border:1px solid #E2D5C1"></div>
+<div id="status" style="font:12px 'Noto Sans KR',sans-serif;color:#8A7F75;margin-top:6px"></div>
 <style>
-.pin{{width:28px;height:28px;border-radius:50%;color:#fff;font:bold 13px sans-serif;display:flex;
-     align-items:center;justify-content:center;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.4);cursor:pointer}}
-.card{{background:#fff;border:1px solid #cbd5e1;border-radius:8px;padding:8px 10px;font:12px/1.5 sans-serif;
-      color:#0f172a;min-width:190px;max-width:260px;box-shadow:0 2px 8px rgba(0,0,0,.2);margin-bottom:20px}}
-.card b{{font-size:13px}} .card .flag{{color:#dc2626;margin-top:4px}}
+.pin{{width:28px;height:28px;border-radius:50%;color:#FFF8EE;font:bold 13px 'Noto Sans KR',sans-serif;display:flex;
+     align-items:center;justify-content:center;border:2px solid #FFF8EE;box-shadow:0 2px 6px rgba(58,46,40,.35);cursor:pointer}}
+.card{{background:#FFFDF8;border:1px solid #E2D5C1;border-radius:12px;padding:10px 12px;font:12px/1.55 'Noto Sans KR',sans-serif;
+      color:#3A2E28;min-width:190px;max-width:260px;box-shadow:0 2px 8px rgba(0,0,0,.2);margin-bottom:20px}}
+.card b{{font-size:13px;color:#7E3220}} .card .flag{{color:#B23A26;margin-top:4px}}
 </style>
 <script>
 const DATA = {payload};
@@ -105,13 +106,13 @@ function draw() {{
     path.forEach(p => bounds.extend(p));
     const flagged = l.flags.length > 0, walk = l.mode === 'WALK';
     new kakao.maps.Polyline({{ map, path, strokeWeight: flagged ? 6 : 5,
-      strokeColor: flagged ? C.flag : (walk ? C.walk : C.ok), strokeOpacity: .85,
+      strokeColor: flagged ? C.flag : (walk ? C.walk : C.route), strokeOpacity: .85,
       strokeStyle: flagged || walk ? 'shortdash' : 'solid' }});
   }});
   DATA.points.forEach(p => {{
     const pos = new kakao.maps.LatLng(p.lat, p.lng); bounds.extend(pos);
     const pin = document.createElement('div'); pin.className = 'pin';
-    pin.style.background = p.flags.length ? C.flag : (p.kind === '숙소' ? C.lodging : C.ok);
+    pin.style.background = p.flags.length ? C.flag : (p.kind === '숙소' ? C.lodging : C.pin);
     pin.textContent = p.flags.length ? '⚠' : p.label; pin.title = p.name;
     new kakao.maps.CustomOverlay({{ map, position: pos, content: pin, yAnchor: .5, zIndex: 3 }});
     const info = new kakao.maps.CustomOverlay({{ position: pos, content: card(p), yAnchor: 1, zIndex: 5 }});
@@ -145,17 +146,17 @@ def folium_map(data: dict):
         flagged, walk = bool(l["flags"]), l["mode"] == "WALK"
         coords += l["path"]
         folium.PolyLine(l["path"], weight=6 if flagged else 5, opacity=.85,
-                        color=COLORS["flag"] if flagged else (COLORS["walk"] if walk else COLORS["ok"]),
+                        color=COLORS["flag"] if flagged else (COLORS["walk"] if walk else COLORS["route"]),
                         dash_array="8" if flagged or walk else None, tooltip=l["label"]).add_to(m)
     for p in data["points"]:
         coords.append([p["lat"], p["lng"]])
-        color = COLORS["flag"] if p["flags"] else (COLORS["lodging"] if p["kind"] == "숙소" else COLORS["ok"])
+        color = COLORS["flag"] if p["flags"] else (COLORS["lodging"] if p["kind"] == "숙소" else COLORS["pin"])
         body = "".join(f"<div>{html.escape(k)}: {html.escape(str(v))}</div>" for k, v in p["info"])
         body += "".join(f"<div style='color:{COLORS['flag']}'>⚠ {html.escape(f)}</div>" for f in p["flags"])
         popup = f"<b>{html.escape(p['label'])}. {html.escape(p['name'])}</b>{body}"
-        icon = folium.DivIcon(html=(f"<div style='background:{color};color:#fff;width:26px;height:26px;border-radius:50%;"
+        icon = folium.DivIcon(html=(f"<div style='background:{color};color:#FFF8EE;width:26px;height:26px;border-radius:50%;"
                                     f"display:flex;align-items:center;justify-content:center;font-weight:bold;"
-                                    f"border:2px solid #fff'>{'⚠' if p['flags'] else html.escape(p['label'])}</div>"),
+                                    f"border:2px solid #FFF8EE;box-shadow:0 2px 6px rgba(58,46,40,.35)'>{'⚠' if p['flags'] else html.escape(p['label'])}</div>"),
                               icon_size=(26, 26), icon_anchor=(13, 13))
         folium.Marker([p["lat"], p["lng"]], icon=icon, tooltip=p["name"],
                       popup=folium.Popup(popup, max_width=280)).add_to(m)
